@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 
 function generateSquare(width, height, numColors) {
   // generate colors array
